@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConexaNewsApp</string>
+    <string name="topbar_title_user_location">Ubicación del usuario</string>
+    <string name="topbar_title_news_details">Detalles de la noticia</string>
+    <string name="no_news">No se encontró ninguna noticia.</string>
+    <string name="text_users_city">Ciudad: %1$s</string>
+    <string name="text_users_company">Empresa: %1$s</string>
+    <string name="text_button_go_to_map">Ir al mapa</string>
+    <string name="text_no_user">No se encontró ningún usuario.</string>
+    <string name="search_label">Buscador de noticias</string>
+    <string name="text_error">Error: %1$s</string>
+</resources>
