@@ -8,8 +8,8 @@ Este documento describe las decisiones arquitectónicas clave, patrones de dise�
 ### MVVM (Model-View-ViewModel)
 El proyecto sigue el patrón arquitectónico MVVM para separar responsabilidades y mejorar el mantenimiento.
 
-- **Modelo**: Representa los datos y la lógica de negocio de la aplicación.
-- **Vista**: Responsable de renderizar la interfaz de usuario y manejar las interacciones del usuario.
+- **Model**: Representa los datos y la lógica de negocio de la aplicación.
+- **View**: Responsable de renderizar la interfaz de usuario y manejar las interacciones del usuario.
 - **ViewModel**: Actúa como intermediario entre la Vista y el Modelo, proporcionando datos a la Vista y manejando las acciones del usuario.
 
 ### Patrón de Repositorio
